@@ -9,5 +9,3 @@
 -   react icons - npm i react-icons
 -   framer-motion - npm i framer-motion
 -   datatable
--
--   npm i react-router redux react-redux react-redux react-router react-helmet react-icons framer-motion
